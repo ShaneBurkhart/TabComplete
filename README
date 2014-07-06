@@ -1,1 +1,6 @@
-A plugin to remove whitespace at end of line when saving.   
+A plugin to enable tab complete in VIM.   
+
+At the moment this is very basic and will definitely be improved on.  
+
+Ordering of words by length needs to be done.  The ordering is strange.
+Need a flag to determine whether the plugin has been sourced or not.

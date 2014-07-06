@@ -1,1 +1,1 @@
-Plugin to make vim autocomplete on tab press.  Or at least bring up a list of options.
+A plugin to enable tab complete in VIM.  Determines whether to execute a tab or a autocomplete function by determining whether we are typing a word or not.
